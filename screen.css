@@ -1,0 +1,29 @@
+h1{
+  font-size: 25px;
+  color : blue;
+  background-color : black;
+  border:3px black dotted
+
+}
+
+h3{
+  text-align: :center;
+
+}
+
+p{ font-size:30px;
+    text-align: center;
+    }
+
+.box1{
+  text-align:center;
+}
+
+.box2{
+  border-style: none;
+  border:3px solid;
+}
+
+.box3 {
+  border-color: white;
+}
